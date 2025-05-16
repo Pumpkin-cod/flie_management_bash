@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# filepath: /Users/catherinegyamfi/Desktop/Amalitech/bash_assignment/file_encryption_tool/file_encryption_tool.sh
-
 # Function to display usage instructions
 usage() {
     echo "Usage: $0 [encrypt|decrypt] [file] [password]"

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# filepath: /Users/catherinegyamfi/Desktop/Amalitech/bash_assignment/duplicate_file_finder.sh
-
 # Function to display usage instructions
 usage() {
     echo "Usage: $0 [directory]"

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# filepath: /Users/catherinegyamfi/Desktop/Amalitech/bash_assignment/file_backup_system/file_backup_system.sh
-
 # Function to display usage instructions
 usage() {
     echo "Usage: $0 [source_directory] [backup_directory]"

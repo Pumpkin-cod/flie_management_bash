@@ -16,7 +16,7 @@ The Bulk File Renamer is a command-line tool designed to rename multiple files i
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/bulk_file_renamer.git
+    git clone https://github.com/Pumpkin-cod/flie_management_bash.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -50,8 +50,3 @@ To add a prefix "new_" to all files in the `documents` folder:
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or suggestions, please contact [your-email@example.com].

@@ -1,7 +1,6 @@
 #!/bin/bash
-
-# filepath: /Users/catherinegyamfi/Desktop/Amalitech/bash_assignment/bulk_file_renamer.sh
-
+# Bulk File Renamer Script
+# This script renames files in a specified directory based on user-defined options.
 # Function to display usage instructions
 usage() {
     echo "Usage: $0 [directory] [option] [argument]"

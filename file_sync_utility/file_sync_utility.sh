@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# filepath: /Users/catherinegyamfi/Desktop/Amalitech/bash_assignment/file_sync_utility/file_sync_utility.sh
-
 # Function to display usage instructions
 usage() {
     echo "Usage: $0 [source_directory] [destination_directory]"

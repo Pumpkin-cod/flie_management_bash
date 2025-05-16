@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Directory to organize (default is the current directory)
+# Directory to organize files in 
 TARGET_DIR=${1:-$(pwd)}
 
 # File type mappings (folder:extensions)
@@ -35,7 +35,7 @@ for file in "$TARGET_DIR"/*; do
             fi
         done
 
-        # If no matching folder, move to "Others"
+        # If no matching folder, then move the file to "Others"
         if [[ $moved == false ]]; then
             mv "$file" "$TARGET_DIR/Others/"
             echo "Moved $file to Others/"

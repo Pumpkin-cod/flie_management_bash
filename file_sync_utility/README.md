@@ -15,7 +15,7 @@ This project is a Bash script designed to synchronize files between two director
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Pumpkin-cod/flie_management_bash.git
     ```
 2. Navigate to the project directory:
     ```bash

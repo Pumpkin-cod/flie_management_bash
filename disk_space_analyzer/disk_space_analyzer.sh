@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# filepath: /Users/catherinegyamfi/Desktop/Amalitech/bash_assignment/disk_space_analyzer.sh
-
 # Function to display usage instructions
 usage() {
     echo "Usage: $0 [directory]"

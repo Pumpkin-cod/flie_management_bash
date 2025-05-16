@@ -16,7 +16,7 @@ This project is a Bash-based file encryption tool designed to securely encrypt a
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Pumpkin-cod/flie_management_bash.git
     cd file_encryption_tool
     ```
 

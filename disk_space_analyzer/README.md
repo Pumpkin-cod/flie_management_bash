@@ -19,7 +19,7 @@ This project is a Bash script designed to analyze disk space usage on a system. 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/disk_space_analyzer.git
+    git clone https://github.com/Pumpkin-cod/flie_management_bash.git
     ```
 2. Navigate to the project directory:
     ```bash

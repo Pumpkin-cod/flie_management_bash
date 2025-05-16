@@ -20,7 +20,7 @@ The Automatic File Sorter is a Bash script designed to organize files in a speci
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/automatic_file_sorter.git
+    git clone https://github.com/Pumpkin-cod/flie_management_bash.git
     ```
 2. Navigate to the project directory:
     ```bash
